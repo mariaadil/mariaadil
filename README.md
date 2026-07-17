@@ -97,9 +97,9 @@ Software Engineer with hands-on experience building scalable mobile and web appl
 - ✅ Optimizing mobile app performance
 - ✅ Staying updated with latest React Native best practices
 - ✅ Contributing to production applications
-- 🎯 Available for freelance React Native & React projects on **Upwork**
+- 🎯 Available for freelance projects
 
 ---
 
 ### ⭐ Open to Opportunities
-Looking for freelance projects, contract work, or collaborations on mobile and web applications. Feel free to reach out!
+Feel free to reach out!
