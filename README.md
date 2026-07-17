@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-Software Engineer with hands-on experience building scalable mobile and web applications. Specialized in React Native, React JS, and Firebase. I've delivered production-ready features used by thousands of users and love writing clean, maintainable code.
+Software Engineer with hands-on experience building scalable mobile and web applications. Specialized in React Native, React JS, Next JS. I've delivered production-ready features used by thousands of users and love writing clean, maintainable code.
 
 ---
 
