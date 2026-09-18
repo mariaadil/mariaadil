@@ -1,105 +1,193 @@
 # Hi, I'm Maria Adil 👋
 
-**Software Engineer**
+### Software Engineer | React Native | React | Next.js | TypeScript
 
-Software Engineer with hands-on experience building scalable mobile and web applications. Specialized in React Native, React JS, Next JS. I've delivered production-ready features used by thousands of users and love writing clean, maintainable code.
+Software Engineer focused on building scalable, production-ready web and mobile applications. I work primarily with **React Native, React.js, Next.js, TypeScript, and JavaScript**, with hands-on experience in API integration, application performance, authentication, and backend development.
 
----
+I enjoy turning complex requirements into clean, maintainable, and user-focused software.
 
-### 💼 Currently
-**Software Engineer at Verge Systems** (Nov 2025 – Present)
-- Building web and mobile applications
-- Upgrading React Native versions for Android & iOS
-- Optimizing performance and fixing bugs in XCode/Android Studio
+🌐 **Portfolio:** [mariaadilshaikh.vercel.app](https://mariaadilshaikh.vercel.app/)
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Experience
 
-**[Court Companion Chatbot](https://github.com/mariaadil)** | AI-Powered Legal Assistant
-- Intelligent chatbot using Python, RAG NLP, and Firebase
-- AES-based encryption for secure communication
-- Semantic search with FAISS & Sentence Transformer
-- **Impact:** Final year project demonstrating full-stack AI integration
+### Software Engineer — Verge Systems
+**Nov 2025 – Present**
 
-**[Pehchaan](https://github.com/mariaadil)** | Multi-Complaint Mobile Platform
-- Complaint management system for civilians and law enforcement
-- Built with React Native & Firebase
-- **Impact:** Streamlined investigations and community safety (Community Project)
-
-**[Food Delivery App](https://github.com/mariaadil)** | Full-Featured E-Commerce Mobile App
-- Authentication, cart management, real-time order tracking
-- Redux state management, Firebase integration
-- REST API integration with performance optimization
-- **Tech:** React Native CLI, Firebase, Redux
-
-**[Weather App](https://github.com/mariaadil)** | Location-Based Weather Forecast
-- Current and hourly weather data display
-- OpenWeather API integration
-- **Tech:** React JS, Dynamic UI rendering
-
-**[E-Commerce Bookstore](https://github.com/mariaadil)** | Online Store Platform
-- Product filtering, shopping cart, payment simulation
-- Advanced state management with Redux
-- **Tech:** React JS, Redux, Routing
+- Build and maintain production web and mobile applications.
+- Develop cross-platform applications using **React Native**.
+- Upgrade React Native versions across Android and iOS platforms.
+- Diagnose and resolve issues across **Xcode and Android Studio**.
+- Optimize application performance, UI responsiveness, and user experience.
+- Integrate REST APIs and work with existing backend systems.
+- Debug production issues and deliver maintainable solutions.
 
 ---
 
-### 💻 Tech Stack
+## 🚀 Featured Projects
 
-**Frontend:** `React Native` `React JS` `Next JS` `TypeScript` `JavaScript` `Redux`
+### ⚖️ Court Companion — AI Legal Assistant
 
-**Backend & APIs:** `REST APIs` `Firebase` `SQLite`
+AI-powered legal information platform focused on Pakistani law.
 
-**Tools:** `Visual Studio Code` `Git` `Azure Pipelines` `Figma` `XCode` `Android Studio`
+- Built an AI chatbot using **Python, RAG, NLP, FAISS, and Sentence Transformers**.
+- Implemented semantic search over a legal knowledge base.
+- Integrated encrypted communication using **AES-based encryption**.
+- Developed frontend experiences using modern **React / Next.js** technologies.
+- Designed the system around source-backed legal information rather than generic chatbot responses.
 
----
-
-### 📊 Impact & Achievements
-- 🎯 Delivered production-ready features used by **thousands of users**
-- ⚡ Improved app engagement by **25%** through responsive design
-- 🚀 Reduced load time by **30%** using lazy loading optimization
-- 🐛 Reduced UI bugs by **40%** through unit testing
+**Tech:** Python · RAG · NLP · FAISS · Sentence Transformers · React · Next.js
 
 ---
 
-### 🎓 Education & Certifications
-- **Bachelor of Science in Computer Science** — COMSATS University Islamabad (2021–2025)
-- **Introduction to Front-end Development** — Meta (Coursera)
-- **Introduction to Generative AI** — Google Cloud (Coursera)
+### 🛡️ Pehchaan — Complaint Management Platform
+
+A mobile platform designed to manage complaints and support communication between civilians and law enforcement.
+
+- Developed the mobile application using **React Native**.
+- Implemented Firebase-based application functionality.
+- Built complaint management workflows and user interfaces.
+- Focused on creating a simple and accessible reporting experience.
+
+**Tech:** React Native · Firebase · JavaScript
 
 ---
 
-### 🏆 Leadership
-- **PR Manager** — IET Robotics Club, COMSATS Abbottabad (2024–2025)
-- **Documentation & Marketing Lead** — GDSC COMSATS Abbottabad (2023–2024)
+### 🛒 Food Delivery Application
+
+Full-featured mobile e-commerce application with ordering and real-time functionality.
+
+- Implemented authentication and user flows.
+- Built cart and order management.
+- Integrated REST APIs and Firebase.
+- Implemented application-wide state management using Redux.
+- Added real-time order tracking functionality.
+- Focused on performance and responsive mobile UI.
+
+**Tech:** React Native CLI · Redux · Firebase · REST APIs
 
 ---
 
-### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaadil&show_icons=true&theme=dark&hide_border=true)
+### 🌦️ Weather Application
+
+Location-based weather application providing current and hourly forecasts.
+
+- Integrated the **OpenWeather API**.
+- Displayed current and hourly weather information.
+- Implemented dynamic UI based on API data.
+- Built responsive interfaces using React.
+
+**Tech:** React.js · JavaScript · REST API · OpenWeather API
+
+---
+
+### 📚 E-Commerce Bookstore
+
+Online bookstore application with shopping and product discovery functionality.
+
+- Implemented product filtering and search.
+- Built shopping cart functionality.
+- Added Redux-based state management.
+- Implemented routing and reusable UI components.
+- Added payment-flow simulation.
+
+**Tech:** React.js · Redux · JavaScript · Routing
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+`React Native` `React.js` `Next.js` `TypeScript` `JavaScript` `Redux` `HTML` `CSS` `Tailwind CSS`
+
+### Backend & APIs
+`Node.js` `Express.js` `REST APIs` `Firebase` `MySQL` `SQLite`
+
+### AI & Data
+`Python` `RAG` `NLP` `FAISS` `Sentence Transformers`
+
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Figma` `Xcode` `Android Studio` `Azure Pipelines` `Vercel`
+
+---
+
+## 📈 Engineering Focus
+
+- ⚡ Application performance optimization
+- 📱 Cross-platform mobile development
+- 🌐 Modern web application development
+- 🔐 Authentication and authorization
+- 🔌 REST API integration
+- 🗄️ Database-driven applications
+- 🤖 AI-powered application development
+- 🧩 Clean and maintainable architecture
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+COMSATS University Islamabad  
+**2021 – 2025**
+
+### Certifications
+
+- **Introduction to Front-End Development** — Meta / Coursera
+- **Introduction to Generative AI** — Google Cloud / Coursera
+
+---
+
+## 🏆 Leadership & Community
+
+### PR Manager — IET Robotics Club
+**COMSATS Abbottabad | 2024 – 2025**
+
+### Documentation & Marketing Lead — GDSC
+**COMSATS Abbottabad | 2023 – 2024**
+
+---
+
+## 📊 GitHub
+
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaadil&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaadil&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 📱 Let's Connect
-- 💼 **LinkedIn:** [in/mariaadil](https://www.linkedin.com/in/mariaadil)
+## 🌱 Currently Learning
+
+I'm currently expanding beyond frontend development into **backend engineering and AI systems**.
+
+- 🔹 Node.js & Express.js
+- 🔹 Database design & query optimization
+- 🔹 Authentication & RBAC
+- 🔹 Redis & caching
+- 🔹 Background jobs & queues
+- 🔹 CI/CD & production engineering
+- 🔹 AI application architecture
+- 🔹 RAG & context management
+
+---
+
+## 📱 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/mariaadil](https://www.linkedin.com/in/mariaadil)
+- 🌐 **Portfolio:** [mariaadilshaikh.vercel.app](https://mariaadilshaikh.vercel.app/)
 - 📧 **Email:** adilmaria16@gmail.com
+- 💻 **GitHub:** [github.com/mariaadil](https://github.com/mariaadil)
 - 📱 **Phone:** 03352307480
-- 💻 **Upwork:** [Add your Upwork link]
-- 🌐 **Portfolio:** [shaikhm.com](https://shaikhm.com)
-- 📍 **Location:** Hyderabad, Sindh, PK
+- 💼 **Upwork:** Add your profile link
 
 ---
 
-### 💪 What I'm Currently Doing
-- ✅ Optimizing mobile app performance
-- ✅ Staying updated with latest React Native best practices
-- ✅ Contributing to production applications
-- 🎯 Available for freelance projects
+## 🚀 Open to Opportunities
 
----
+I'm interested in opportunities involving:
 
-### ⭐ Open to Opportunities
-Feel free to reach out!
+**Software Engineering · React Native · React · Next.js · Full-Stack Development · AI Applications**
+
+If you're building something interesting, feel free to connect.
+
+⭐ Thanks for visiting my profile!
