@@ -148,14 +148,6 @@ COMSATS University Islamabad
 
 ---
 
-## 📊 GitHub
-
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaadil&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaadil&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🌱 Currently Learning
 
 I'm currently expanding beyond frontend development into **backend engineering and AI systems**.
