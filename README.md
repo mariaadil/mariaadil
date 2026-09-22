@@ -183,3 +183,5 @@ I'm interested in opportunities involving:
 If you're building something interesting, feel free to connect.
 
 ⭐ Thanks for visiting my profile!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaadil)](https://git.io/streak-stats)
